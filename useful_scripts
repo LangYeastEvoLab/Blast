@@ -1,0 +1,5 @@
+#Useful scripts
+#RCV 6/10/20
+
+#run mafft on resulting blast alignments
+/share/ceph/gil213group/shared/blast_pipeline/mafft/mafft-7.453-with-extensions/scripts/mafft --auto path/to/_alnmnt.fas > output/path/_mafft.fas
